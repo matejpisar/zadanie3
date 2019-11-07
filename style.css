@@ -1,0 +1,30 @@
+body {
+    font-size: 100%;
+}
+
+h1.napdis {
+    color: brown;
+    font-size: 2em;
+
+}
+
+h2 {    
+    font-size: 1.3em;
+
+}
+
+p.nadpis {
+    font-size: 60%;
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+p {
+    font-size: 60%;
+    font-style: normal;
+    color: black;
+    font-weight: bold;
+    font-size: 0.9em;
+}
